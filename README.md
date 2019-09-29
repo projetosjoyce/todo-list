@@ -1,3 +1,11 @@
+### **Imagem do projeto** 
+
+**Lista de tarefas**
+![todoInicial](https://user-images.githubusercontent.com/49159497/65833111-d9502b80-e2a2-11e9-891f-e6b21debce07.JPG)
+
+**Cadastro de Tarefas**
+![todoCadastroTarefas](https://user-images.githubusercontent.com/49159497/65833110-d9502b80-e2a2-11e9-9c39-74148bc0fc12.JPG)
+
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
